@@ -2,6 +2,23 @@
 
 Automatically highlight important content in academic PDFs using OpenAI GPT. Preserves original layout while adding intelligent, multi-color highlights.
 
+## Screenshots
+
+### Before and After Highlighting
+
+**Original PDF:**
+![Before highlighting](screenshots/before.png)
+
+**After AI-Powered Multi-Color Highlighting:**
+![After highlighting](screenshots/after.png)
+
+The AI automatically identifies and highlights:
+- 🟡 Core concepts and key findings
+- 🟢 Technical terms and architecture details  
+- 🔵 Datasets, benchmarks, and performance metrics
+- 🟠 Training methods and optimization techniques
+- 🟣 Comparisons and improvements
+
 ## Features
 
 - 🤖 **AI-Powered**: Uses OpenAI GPT to identify key phrases and concepts
